@@ -18,7 +18,6 @@ I am a Full-Stack developer who openly accepts opportunities and challanges.
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SunilKumarRegar1404&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
-![Snake animation](https://github.com/sunilkumarregar1404/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 ---
 [![](https://visitcount.itsvg.in/api?id=SunilKumarRegar1404&icon=5&color=13)](https://visitcount.itsvg.in)
 
